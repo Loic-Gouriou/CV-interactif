@@ -1,0 +1,109 @@
+.box{
+	display: flex;
+	justify-content: space-between;
+}
+h2 {
+	color : red;
+	font-family: Optima;overflow-x: 
+}
+a.lc {
+	color: red;  
+	background-color: yellow; 
+	text-decoration: none
+
+}
+
+a.sommaire {
+	color: black;
+	font-size : 15pt;
+	text-decoration: none;
+
+}
+
+p{
+	font-size: 17pt;
+}
+a.sommaire1{
+	font-size : 17pt;
+	color : black;
+	text-decoration-line: underline;
+}
+li{
+	font-size : 17pt;
+}
+ul{
+	font-size : 17pt;
+}
+strong{
+	font-size:17pt;
+}
+u{
+	font-size: 17pt;
+}
+footer {
+	font-size : 10pt;
+	text-decoration: none;
+	text-align: center;
+	color : black;
+
+}
+section.titre {
+	color : red;
+	text-align: left;
+	width:155px;
+	display : left;
+	flex direction : column;
+	background-color: yellow;
+	background : transparent;
+	border-color: red;
+	border-width: 0 0 2px;
+	border-style: solid;
+	width : 85%;
+	
+}
+
+section.blocktxt {
+	color : black;
+	text-align: left;
+	margin left: 125px;
+	
+
+
+
+}
+
+
+
+
+header {
+	text-align: center;
+	color : black;
+
+}
+img {
+	width : 25%;
+}
+strong {
+	color: blue;
+}
+a.numtel {
+	text-decoration:none; color:black
+}
+a.mail {
+	color : black;
+}
+h1{
+	text-align: center;
+	margin-top: 0px;
+}
+h1.title{
+	color: blue;
+}
+
+
+@media screen and (max-width: 60em){
+.ideonmobile {
+	display: none;
+}
+}
+
